@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'mr_github'
+MrGithub::App.start
